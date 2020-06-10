@@ -1,0 +1,11 @@
+{
+  "name": "vovo-robo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@open-wa/wa-automate": "^1.9.67",
+    "jimp": "^0.13.0",
+    "p-queue": "^6.4.0"
+  }
+}
